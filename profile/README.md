@@ -1,13 +1,17 @@
 <a href="https://staarter.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo_dark.png">
-    <img alt="staarter.dev" src="./logo.png" width="50%">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo_dark.png" />
+    <img alt="staarter.dev" src="./logo.png" width="50%" />
   </picture>
 </a>
 
 # NextJS SaaS Boilerplate
 
 Welcome to staarter.dev, the ultimate NextJS boilerplate crafted to launch your SaaS product swiftly and efficiently. Utilizing a cutting-edge tech stack, this boilerplate empowers you to build a robust, scalable, and visually appealing SaaS application with ease.
+
+<a href="https://demo.staarter.dev">
+  <img alt="View Demo" src="https://img.shields.io/badge/View%20Demo-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
 
 ## 💼 Why Choose staarter.dev?
 
