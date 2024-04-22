@@ -21,16 +21,10 @@ Opting for staarter.dev means embracing a framework that:
 ## 🚀 Features
 
 - **Monorepo Architecture**: Manage multiple packages and projects within a single, cohesive environment.
-- **Pre-configured Authentication**: Implement secure authentication with OAuth providers and email verification.
+- **Pre-configured Authentication**: Implement secure authentication with OAuth providers, email verification and two factor authentication.
 - **Necessary SaaS Components**: Utilize essential components like billing, subscriptions, usage limits, and much, much more.
 - **Responsive Design**: Create a visually appealing, responsive web application with Tailwind CSS and shadcn/ui.
-- **Type-safe APIs**: Develop APIs with tRPC, ensuring type safety and seamless integration with TypeScript.
-- **Database Management**: Leverage Prisma for robust database management with TypeScript and Node.js support.
-- **Session Management**: Ensure secure and flexible session management across your applications with Lucia.
-- **Email Integration**: Craft and send responsive HTML emails using familiar React component syntax with react-email.
 - **Fully Localized**: Support multiple languages and locales with ease, from the website to emails.
-- **SEO Optimization**: Enhance your website's visibility with built-in SEO optimization features.
-- **Dark Mode Support**: Provide a seamless dark mode experience to your users with automatic theme switching.
 - **Comprehensive Documentation**: Access detailed documentation to guide you through the setup and customization process.
 - **Dedicated Support**: Receive prompt assistance and support from the staarter.dev team to address any queries or issues.
 
